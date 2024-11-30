@@ -10,16 +10,16 @@ Se você estiver no sistema operacional Windows, baixe o ZIP deste repositório.
 
 Capturas de tela do programa:
 
-![01](screenshots/Screen01.png)
+![01](Screenshots/Screen01.png)
 
 
-![02](screenshots/Screen02.png)
+![02](Screenshots/Screen02.png)
 
 
-![03](screenshots/Screen03.png)
+![03](Screenshots/Screen03.png)
 
 
-![04](screenshots/Screen04.png)
+![04](Screenshots/Screen04.png)
 
 
-![05](screenshots/Screen05.png)
+![05](Screenshots/Screen05.png)
