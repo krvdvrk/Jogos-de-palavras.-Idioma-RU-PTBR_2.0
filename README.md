@@ -1,4 +1,4 @@
- Olá! Agora em Português do Brasil, o jogo de diconário da Língua Russa. Inclui também um mini curso para dar um pequeno pontapé
+ Olá! Agora em Português do Brasil, o jogo de dicionário da Língua Russa. Inclui também um mini curso para dar um pequeno pontapé
 nessa jornada de aprendizado.
 
 Se você estiver no sistema operacional Linux, faça um git clone deste repositório.
