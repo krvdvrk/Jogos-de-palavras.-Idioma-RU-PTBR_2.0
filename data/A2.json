@@ -1,0 +1,958 @@
+[
+    {
+        "palavra": "в",
+        "tradução": "em, para"
+    },
+    {
+        "palavra": "на",
+        "tradução": "em (lugar, dia/semana, meio de transporte), para (direção), sobre, em (local), para (finalidade)"
+    },
+    {
+        "palavra": "а",
+        "tradução": "e (como contraste)"
+    },
+    {
+        "palavra": "как",
+        "tradução": "como, o que, tal como"
+    },
+    {
+        "palavra": "но",
+        "tradução": "mas"
+    },
+    {
+        "palavra": "к",
+        "tradução": "em direção a, para, até (tempo)"
+    },
+    {
+        "palavra": "так",
+        "tradução": "tão, exatamente como"
+    },
+    {
+        "palavra": "сказа́ть",
+        "tradução": "dizer"
+    },
+    {
+        "palavra": "от",
+        "tradução": "de (distância, parte de um todo, causa, distância, alguém, intervalo), por, do"
+    },
+    {
+        "palavra": "кото́рый",
+        "tradução": "que, quem"
+    },
+    {
+        "palavra": "о",
+        "tradução": "sobre, de, em, contra"
+    },
+    {
+        "palavra": "тако́й",
+        "tradução": "tal, ser assim"
+    },
+    {
+        "palavra": "како́й",
+        "tradução": "qual"
+    },
+    {
+        "palavra": "для",
+        "tradução": "para (benefício de), a"
+    },
+    {
+        "palavra": "уже́",
+        "tradução": "já"
+    },
+    {
+        "palavra": "когда́",
+        "tradução": "quando"
+    },
+    {
+        "palavra": "вот",
+        "tradução": "aqui"
+    },
+    {
+        "palavra": "год",
+        "tradução": "ano"
+    },
+    {
+        "palavra": "знать",
+        "tradução": "saber"
+    },
+    {
+        "palavra": "е́сли",
+        "tradução": "se, caso"
+    },
+    {
+        "palavra": "до",
+        "tradução": "para (direção, distância), antes, até, até (limite)"
+    },
+    {
+        "palavra": "вре́мя",
+        "tradução": "tempo"
+    },
+    {
+        "palavra": "рука́",
+        "tradução": "mão, braço, caligrafia"
+    },
+    {
+        "palavra": "да́же",
+        "tradução": "até, mesmo"
+    },
+    {
+        "palavra": "что́бы",
+        "tradução": "para que, a fim de"
+    },
+    {
+        "palavra": "раз",
+        "tradução": "vez, um, uma vez, se"
+    },
+    {
+        "palavra": "глаз",
+        "tradução": "olho"
+    },
+    {
+        "palavra": "пе́рвый",
+        "tradução": "primeiro"
+    },
+    {
+        "palavra": "день",
+        "tradução": "dia, tarde"
+    },
+    {
+        "palavra": "ничто́",
+        "tradução": "nada"
+    },
+    {
+        "palavra": "на́до",
+        "tradução": "precisar, é necessário"
+    },
+    {
+        "palavra": "голова́",
+        "tradução": "cabeça"
+    },
+    {
+        "palavra": "ви́деть",
+        "tradução": "ver"
+    },
+    {
+        "palavra": "тепе́рь",
+        "tradução": "agora"
+    },
+    {
+        "palavra": "идти́",
+        "tradução": "ir, estar indo"
+    },
+    {
+        "palavra": "друг",
+        "tradução": "amigo"
+    },
+    {
+        "palavra": "сейча́с",
+        "tradução": "agora, em breve, imediatamente"
+    },
+    {
+        "palavra": "по́сле",
+        "tradução": "depois"
+    },
+    {
+        "palavra": "сло́во",
+        "tradução": "palavra, discurso, promessa"
+    },
+    {
+        "palavra": "ме́сто",
+        "tradução": "lugar, região, local, espaço, emprego, peça de bagagem"
+    },
+    {
+        "palavra": "ду́мать",
+        "tradução": "pensar, considerar"
+    },
+    {
+        "palavra": "лицо́",
+        "tradução": "rosto, entidade, primeira pessoa (ponto de vista), pessoa"
+    },
+    {
+        "palavra": "тогда́",
+        "tradução": "então"
+    },
+    {
+        "palavra": "но́вый",
+        "tradução": "novo"
+    },
+    {
+        "palavra": "ка́ждый",
+        "tradução": "cada"
+    },
+    {
+        "palavra": "хоро́ший",
+        "tradução": "bom"
+    },
+    {
+        "palavra": "почему́",
+        "tradução": "por que"
+    },
+    {
+        "palavra": "смотре́ть",
+        "tradução": "olhar"
+    },
+    {
+        "palavra": "про́сто",
+        "tradução": "é simples, apenas"
+    },
+    {
+        "palavra": "нога́",
+        "tradução": "perna"
+    },
+    {
+        "palavra": "никто́",
+        "tradução": "ninguém"
+    },
+    {
+        "palavra": "пе́ред",
+        "tradução": "em frente de, antes de, para"
+    },
+    {
+        "palavra": "коне́чно",
+        "tradução": "certamente, claro"
+    },
+    {
+        "palavra": "го́род",
+        "tradução": "cidade"
+    },
+    {
+        "palavra": "не́сколько",
+        "tradução": "alguns, alguns poucos, vários"
+    },
+    {
+        "palavra": "нача́ть",
+        "tradução": "começar"
+    },
+    {
+        "palavra": "час",
+        "tradução": "hora, relógio"
+    },
+    {
+        "palavra": "пока́",
+        "tradução": "tchau (informal), enquanto, até agora, até"
+    },
+    {
+        "palavra": "после́дний",
+        "tradução": "último, final, o mais recente, pior (coloquial)"
+    },
+    {
+        "palavra": "хотя́",
+        "tradução": "embora"
+    },
+    {
+        "palavra": "всегда́",
+        "tradução": "sempre"
+    },
+    {
+        "palavra": "стол",
+        "tradução": "mesa"
+    },
+    {
+        "palavra": "маши́на",
+        "tradução": "carro, máquina"
+    },
+    {
+        "palavra": "ночь",
+        "tradução": "noite"
+    },
+    {
+        "palavra": "же́нщина",
+        "tradução": "mulher"
+    },
+    {
+        "palavra": "ребёнок",
+        "tradução": "criança"
+    },
+    {
+        "palavra": "вы́йти",
+        "tradução": "sair, ser publicado, casar-se (com ele), aparecer"
+    },
+    {
+        "palavra": "оте́ц",
+        "tradução": "pai"
+    },
+    {
+        "palavra": "вопро́с",
+        "tradução": "pergunta, questão, problema"
+    },
+    {
+        "palavra": "рабо́тать",
+        "tradução": "trabalhar, abrir"
+    },
+    {
+        "palavra": "почти́",
+        "tradução": "quase"
+    },
+    {
+        "palavra": "сно́ва",
+        "tradução": "de novo, novamente"
+    },
+    {
+        "palavra": "ста́рый",
+        "tradução": "velho, antigo"
+    },
+    {
+        "palavra": "страна́",
+        "tradução": "país, terra"
+    },
+    {
+        "palavra": "ме́жду",
+        "tradução": "entre, dentre, inter-"
+    },
+    {
+        "palavra": "мно́го",
+        "tradução": "muito, muitos, um monte de"
+    },
+    {
+        "palavra": "де́ньги",
+        "tradução": "dinheiro"
+    },
+    {
+        "palavra": "зна́чить",
+        "tradução": "significar"
+    },
+    {
+        "palavra": "мину́та",
+        "tradução": "minuto"
+    },
+    {
+        "palavra": "ждать",
+        "tradução": "esperar"
+    },
+    {
+        "palavra": "никогда́",
+        "tradução": "nunca"
+    },
+    {
+        "palavra": "найти́",
+        "tradução": "encontrar"
+    },
+    {
+        "palavra": "жена́",
+        "tradução": "esposa, mulher"
+    },
+    {
+        "palavra": "мать",
+        "tradução": "mãe"
+    },
+    {
+        "palavra": "у́лица",
+        "tradução": "rua"
+    },
+    {
+        "palavra": "далёкий",
+        "tradução": "distante, longe"
+    },
+    {
+        "palavra": "ко́мната",
+        "tradução": "quarto, cômodo"
+    },
+    {
+        "palavra": "по́мнить",
+        "tradução": "lembrar"
+    },
+    {
+        "palavra": "наза́д",
+        "tradução": "para trás, atrás, há (tempo passado)"
+    },
+    {
+        "palavra": "про́шлый",
+        "tradução": "passado, anterior"
+    },
+    {
+        "palavra": "пря́мо",
+        "tradução": "reto, diretamente, real, exatamente"
+    },
+    {
+        "palavra": "до́лго",
+        "tradução": "por muito tempo"
+    },
+    {
+        "palavra": "сын",
+        "tradução": "filho, criança, filhos (plural poético)"
+    },
+    {
+        "palavra": "поэ́тому",
+        "tradução": "por isso, é por isso que"
+    },
+    {
+        "palavra": "чита́ть",
+        "tradução": "ler"
+    },
+    {
+        "palavra": "ме́сяц",
+        "tradução": "mês, lua"
+    },
+    {
+        "palavra": "молодо́й",
+        "tradução": "jovem, novo"
+    },
+    {
+        "palavra": "ма́ма",
+        "tradução": "mãe (informal)"
+    },
+    {
+        "palavra": "иногда́",
+        "tradução": "às vezes"
+    },
+    {
+        "palavra": "брат",
+        "tradução": "irmão"
+    },
+    {
+        "palavra": "отку́да",
+        "tradução": "de onde"
+    },
+    {
+        "palavra": "туда́",
+        "tradução": "lá"
+    },
+    {
+        "palavra": "ма́ло",
+        "tradução": "pouco, muito pouco"
+    },
+    {
+        "palavra": "сли́шком",
+        "tradução": "muito (excesso)"
+    },
+    {
+        "palavra": "сле́дующий",
+        "tradução": "seguinte, próximo"
+    },
+    {
+        "palavra": "со́лнце",
+        "tradução": "sol"
+    },
+    {
+        "palavra": "неде́ля",
+        "tradução": "semana"
+    },
+    {
+        "palavra": "войти́",
+        "tradução": "entrar"
+    },
+    {
+        "palavra": "спать",
+        "tradução": "dormir"
+    },
+    {
+        "palavra": "иска́ть",
+        "tradução": "procurar, processar (direito)"
+    },
+    {
+        "palavra": "семья́",
+        "tradução": "família"
+    },
+    {
+        "palavra": "муж",
+        "tradução": "marido"
+    },
+    {
+        "palavra": "ти́хо",
+        "tradução": "silenciosamente, calmamente, devagar"
+    },
+    {
+        "palavra": "снег",
+        "tradução": "neve"
+    },
+    {
+        "palavra": "е́хать",
+        "tradução": "ir (de cavalo ou veículo), viajar, mover-se (de um lugar)"
+    },
+    {
+        "palavra": "соба́ка",
+        "tradução": "cachorro"
+    },
+    {
+        "palavra": "пробле́ма",
+        "tradução": "problema"
+    },
+    {
+        "palavra": "вчера́",
+        "tradução": "ontem"
+    },
+    {
+        "palavra": "вещь",
+        "tradução": "coisa"
+    },
+    {
+        "palavra": "далеко́",
+        "tradução": "longe"
+    },
+    {
+        "palavra": "за́втра",
+        "tradução": "amanhã"
+    },
+    {
+        "palavra": "пло́хо",
+        "tradução": "é ruim, difícil"
+    },
+    {
+        "palavra": "обычно",
+        "tradução": "geralmente"
+    },
+    {
+        "palavra": "краси́вый",
+        "tradução": "bonito"
+    },
+    {
+        "palavra": "пить",
+        "tradução": "beber"
+    },
+    {
+        "palavra": "дере́вня",
+        "tradução": "vila (pequena aldeia), população rural"
+    },
+    {
+        "palavra": "нра́виться",
+        "tradução": "gostar, agradar"
+    },
+    {
+        "palavra": "мно́гие",
+        "tradução": "muitos"
+    },
+    {
+        "palavra": "холо́дный",
+        "tradução": "frio"
+    },
+    {
+        "palavra": "роди́тель",
+        "tradução": "pai ou mãe"
+    },
+    {
+        "palavra": "секу́нда",
+        "tradução": "segundo"
+    },
+    {
+        "palavra": "вы́ход",
+        "tradução": "saída, saída (tomada), solução (meio de sair de uma situação)"
+    },
+    {
+        "palavra": "бы́стрый",
+        "tradução": "rápido"
+    },
+    {
+        "palavra": "до́лгий",
+        "tradução": "longo"
+    },
+    {
+        "palavra": "ти́хий",
+        "tradução": "quieto, pacífico, Pacífico"
+    },
+    {
+        "palavra": "сестра́",
+        "tradução": "irmã, enfermeira"
+    },
+    {
+        "palavra": "дождь",
+        "tradução": "chuva"
+    },
+    {
+        "palavra": "ста́нция",
+        "tradução": "estação, usina"
+    },
+    {
+        "palavra": "стул",
+        "tradução": "cadeira, banco"
+    },
+    {
+        "palavra": "свобо́дный",
+        "tradução": "livre"
+    },
+    {
+        "palavra": "крова́ть",
+        "tradução": "cama"
+    },
+    {
+        "palavra": "па́па",
+        "tradução": "papai, Papa"
+    },
+    {
+        "palavra": "дорого́й",
+        "tradução": "caro, querido"
+    },
+    {
+        "palavra": "ма́лый",
+        "tradução": "pequeno"
+    },
+    {
+        "palavra": "у́мный",
+        "tradução": "inteligente"
+    },
+    {
+        "palavra": "плохо́й",
+        "tradução": "ruim"
+    },
+    {
+        "palavra": "норма́льный",
+        "tradução": "normal"
+    },
+    {
+        "palavra": "клуб",
+        "tradução": "clube"
+    },
+    {
+        "palavra": "гря́зный",
+        "tradução": "sujo"
+    },
+    {
+        "palavra": "гро́мко",
+        "tradução": "alto (som)"
+    },
+    {
+        "palavra": "останови́ть",
+        "tradução": "parar"
+    },
+    {
+        "palavra": "еда́",
+        "tradução": "comida"
+    },
+    {
+        "palavra": "плати́ть",
+        "tradução": "pagar"
+    },
+    {
+        "palavra": "биле́т",
+        "tradução": "bilhete, ingresso"
+    },
+    {
+        "palavra": "роди́ться",
+        "tradução": "nascer"
+    },
+    {
+        "palavra": "учи́ть",
+        "tradução": "aprender, ensinar"
+    },
+    {
+        "palavra": "текст",
+        "tradução": "texto"
+    },
+    {
+        "palavra": "авто́бус",
+        "tradução": "ônibus"
+    },
+    {
+        "palavra": "ко́шка",
+        "tradução": "gato"
+    },
+    {
+        "palavra": "тру́дный",
+        "tradução": "difícil"
+    },
+    {
+        "palavra": "вход",
+        "tradução": "entrada"
+    },
+    {
+        "palavra": "боле́ть",
+        "tradução": "estar doente, estar dolorido, torcer (para um time)"
+    },
+    {
+        "palavra": "гото́вить",
+        "tradução": "cozinhar, treinar, preparar"
+    },
+    {
+        "palavra": "поли́ция",
+        "tradução": "polícia"
+    },
+    {
+        "palavra": "среда́",
+        "tradução": "quarta-feira, ambiente"
+    },
+    {
+        "palavra": "ку́ртка",
+        "tradução": "jaqueta"
+    },
+    {
+        "palavra": "лу́чше",
+        "tradução": "melhor"
+    },
+    {
+        "palavra": "подру́га",
+        "tradução": "amiga, namorada"
+    },
+    {
+        "palavra": "до́чка",
+        "tradução": "filha"
+    },
+    {
+        "palavra": "гро́мкий",
+        "tradução": "alto (som)"
+    },
+    {
+        "palavra": "пого́да",
+        "tradução": "tempo (clima)"
+    },
+    {
+        "palavra": "везде́",
+        "tradução": "em todo lugar"
+    },
+    {
+        "palavra": "боти́нок",
+        "tradução": "sapato"
+    },
+    {
+        "palavra": "паке́т",
+        "tradução": "saco, pacote"
+    },
+    {
+        "palavra": "приве́т",
+        "tradução": "oi (informal)"
+    },
+    {
+        "palavra": "нигде́",
+        "tradução": "em lugar nenhum"
+    },
+    {
+        "palavra": "пра́вильный",
+        "tradução": "correto, regular, nivelado"
+    },
+    {
+        "palavra": "дешёвый",
+        "tradução": "barato"
+    },
+    {
+        "palavra": "голо́дный",
+        "tradução": "com fome"
+    },
+    {
+        "palavra": "метро́",
+        "tradução": "metrô"
+    },
+    {
+        "palavra": "недалеко́",
+        "tradução": "não muito longe"
+    },
+    {
+        "palavra": "кафе́",
+        "tradução": "café"
+    },
+    {
+        "palavra": "воскресе́нье",
+        "tradução": "domingo"
+    },
+    {
+        "palavra": "суп",
+        "tradução": "sopa"
+    },
+    {
+        "palavra": "норма́льно",
+        "tradução": "normalmente"
+    },
+    {
+        "palavra": "суббо́та",
+        "tradução": "sábado"
+    },
+    {
+        "palavra": "жа́ркий",
+        "tradução": "quente"
+    },
+    {
+        "palavra": "напи́ток",
+        "tradução": "bebida"
+    },
+    {
+        "palavra": "напра́во",
+        "tradução": "à direita"
+    },
+    {
+        "palavra": "нале́во",
+        "tradução": "à esquerda"
+    },
+    {
+        "palavra": "ме́дленный",
+        "tradução": "devagar"
+    },
+    {
+        "palavra": "ку́шать",
+        "tradução": "comer"
+    },
+    {
+        "palavra": "вку́сный",
+        "tradução": "saboroso"
+    },
+    {
+        "palavra": "понеде́льник",
+        "tradução": "segunda-feira"
+    },
+    {
+        "palavra": "ую́тный",
+        "tradução": "aconchegante"
+    },
+    {
+        "palavra": "пя́тница",
+        "tradução": "sexta-feira"
+    },
+    {
+        "palavra": "сала́т",
+        "tradução": "salada, alface"
+    },
+    {
+        "palavra": "четве́рг",
+        "tradução": "quinta-feira"
+    },
+    {
+        "palavra": "меню́",
+        "tradução": "cardápio, menu"
+    },
+    {
+        "palavra": "вто́рник",
+        "tradução": "terça-feira"
+    },
+    {
+        "palavra": "недалёкий",
+        "tradução": "mente estreita, não muito longe"
+    },
+    {
+        "palavra": "шторм",
+        "tradução": "tempestade"
+    },
+    {
+        "palavra": "хо́бби",
+        "tradução": "hobby"
+    },
+    {
+        "palavra": "эскала́тор",
+        "tradução": "escada rolante"
+    },
+    {
+        "palavra": "что́-то",
+        "tradução": "algo"
+    },
+    {
+        "palavra": "кто́-то",
+        "tradução": "alguém"
+    },
+    {
+        "palavra": "где́-то",
+        "tradução": "em algum lugar"
+    },
+    {
+        "palavra": "спа́ржа",
+        "tradução": "aspargo"
+    },
+    {
+        "palavra": "не́сколькие",
+        "tradução": "vários"
+    },
+    {
+        "palavra": "оди́н",
+        "tradução": "um, sozinho"
+    },
+    {
+        "palavra": "два",
+        "tradução": "dois"
+    },
+    {
+        "palavra": "три",
+        "tradução": "três"
+    },
+    {
+        "palavra": "пять",
+        "tradução": "cinco"
+    },
+    {
+        "palavra": "четы́ре",
+        "tradução": "quatro"
+    },
+    {
+        "palavra": "де́сять",
+        "tradução": "dez"
+    },
+    {
+        "palavra": "шесть",
+        "tradução": "seis"
+    },
+    {
+        "palavra": "семь",
+        "tradução": "sete"
+    },
+    {
+        "palavra": "во́семь",
+        "tradução": "oito"
+    },
+    {
+        "palavra": "де́вять",
+        "tradução": "nove"
+    },
+    {
+        "palavra": "его́",
+        "tradução": "genitivo de 'ele', genitivo de 'isso'"
+    },
+    {
+        "palavra": "её",
+        "tradução": "genitivo e acusativo de 'ela'"
+    },
+    {
+        "palavra": "их",
+        "tradução": "genitivo e acusativo de 'eles/elas'"
+    },
+    {
+        "palavra": "до́брое у́тро",
+        "tradução": "bom dia"
+    },
+    {
+        "palavra": "до́брый день",
+        "tradução": "boa tarde"
+    },
+    {
+        "palavra": "до́брый вечер",
+        "tradução": "boa noite"
+    },
+    {
+        "palavra": "потому́ что",
+        "tradução": "porque"
+    },
+    {
+        "palavra": "фи́тнес",
+        "tradução": "fitness"
+    },
+    {
+        "palavra": "креди́тная ка́рта",
+        "tradução": "cartão de crédito"
+    },
+    {
+        "palavra": "все",
+        "tradução": "todos, todo (o), tudo"
+    },
+    {
+        "palavra": "нас",
+        "tradução": "nós"
+    },
+    {
+        "palavra": "ему́",
+        "tradução": "dativo de 'ele', dativo de 'isso'"
+    },
+    {
+        "palavra": "ей",
+        "tradução": "dativo de 'ela'"
+    },
+    {
+        "palavra": "нам",
+        "tradução": "dativo de 'nós'"
+    },
+    {
+        "palavra": "им",
+        "tradução": "dativo de 'eles/elas'"
+    },
+    {
+        "palavra": "прости́те",
+        "tradução": "desculpe-me, perdoe-me"
+    },
+    {
+        "palavra": "чем",
+        "tradução": "do que, em vez de"
+    },
+    {
+        "palavra": "мем",
+        "tradução": "meme"
+    },
+    {
+        "palavra": "вай-фай",
+        "tradução": "Wi-Fi"
+    }
+]
+
+
+
+

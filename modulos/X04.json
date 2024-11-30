@@ -1,0 +1,83 @@
+[
+    {
+        "frase_completa": "Cuidado com os falsos cognatos (parece que é a mesma palavra mas não é): \n\n A família: семья (ciiem iá) \n O sobrenome: фамилия (famylyá)",
+        "palavras_ocultas": ["família", "sobrenome"]
+    },
+    {
+        "frase_completa": "Estrutura dos nomes em russo: \n\n Nome: имя \n Nome do pai: отчество \n Sobrenome: фамилия \n São patriarcais",
+        "palavras_ocultas": ["имя", "отчество", "фамилия", "patriarcais"]
+    },
+    {
+        "frase_completa": "Nome: карпов иван денисович \n\n Classifique em nome/sobrenome/nome do pai: \n карпов: sobrenome \n иван: nome \n денисович: nome do pai",
+        "palavras_ocultas": ["sobrenome", "nome", "nome do pai"]
+    },
+    {
+        "frase_completa": "фио : \n\n É a forma curta dos nomes \n фамилия / имя / отчество \n Muito usado em formulários. Abrange todas as estruturas.",
+        "palavras_ocultas": ["фио"]
+    },
+    {
+        "frase_completa": "Suponhamos que você esteja em um aeroporto e veja um piloto de avião bem conhecido, você decide perguntar a alguém qual o nome dele, o pronome que usará será: \n\n Как его зовут. \n Que será o equivalente a 'Qual o nome dele?' ",
+        "palavras_ocultas": ["его", "dele"]
+    },
+    {
+        "frase_completa": "Suponhamos que você esteja em um aeroporto e veja um piloto de avião bem conhecido, você decide perguntar a alguém qual o nome dele. \n\n Как его зовут? \n\n A pessoa irá lhe responder: \n\n Его эовут Андрей \n\n Equivale a 'O nome dele é Andrei' ",
+        "palavras_ocultas": ["O nome dele é Andrei"]
+    },
+    {
+        "frase_completa": "Suponhamos que você queira saber o nome de um mar, como você perguntaria a alguém o nome desse mar? \n\n Как его зовут?",
+        "palavras_ocultas": ["его"]
+    },
+    {
+        "frase_completa": "Suponhamos que você queira saber o nome de uma artista famosa que esteja passando na rua, como você perguntaria a alguém o nome dela? \n\n Как её зовут?",
+        "palavras_ocultas": ["Как её зовут"]
+    },
+    {
+        "frase_completa": "Suponhamos que você queira saber o nome de uma artista famosa que esteja passando na rua, como você perguntaria a alguém o nome dela? \n\n Как её зовут? Como a pessoa te responderia? \n\n Её зовут Марина",
+        "palavras_ocultas": ["Её зовут"]
+    },
+    {
+        "frase_completa": "Как ______ зовут? \n\n Eu: Меня \n Você: Тебя \n Ele: Его \n Ela: Её \n Neutro: Его \n Nós: Нас \n Vocês: Вас \n Elas/ Eles: Их \n Esses pronomes são do caso acusativo.",
+        "palavras_ocultas": ["Меня", "Тебя", "Его", "Её", "Его", "Нас", "Вас", "Их", "acusativo"]
+    },
+    {
+        "frase_completa": "Как вас зовут? \n 'Qual é seu nome?' \n\n Pessoa desconhecida responde com: \n Меня зовут Мария \n\n Uma pessoa de renome como uma professora, responderá: \n Меня зовут Мария Николаевна(é um nome formal), muito utilizado por professores, medicos, advogados, etc ...",
+        "palavras_ocultas": ["desconhecida", "Николаевна"]
+    },
+    {
+        "frase_completa": "Как вас зовут? Significa 'Qual é seu nome?' \n\n É uma modalidade formal, perguntamos para quem a gente não conhece ... ou para quem conhecemos mas que sejam pessoas de renome, como professores, médicos ...",
+        "palavras_ocultas": ["formal"]
+    },
+    {
+        "frase_completa": "Как тебя зовут? \n\n É mais usado para crianças, adolescentes e até jovens. Não para adultos. É uma forma informal de perguntar o nome.",
+        "palavras_ocultas": ["тебя"]
+    },
+    {
+        "frase_completa": "Меня зовут Мария \n\n Tradução: Meu nome é Maria.",
+        "palavras_ocultas": ["Meu nome é Maria"]
+    },
+    {
+        "frase_completa": "карпов: sobrenome, иван:nome, денисович: Nome do pai \n\n Com relação ao nome do pai existem algumas regras: денисович \n\n денис: Esse é o nome do pai de ivan \n ович: Esse é a conjugação do nome do pai com o ivan",
+        "palavras_ocultas": ["денис", "ович"]
+    },
+    {
+        "frase_completa": "No nome do pai é preciso conjugar. Sendo que: \n\n Para o masculino será: - ович ou - евич \n Para o feminino: - овна ou - евна \n Explicação: \n Quando será евич ou евна? \n Quando a letra antes do e for жа, ча, ша, ща, ца, й, ь \n Há exceções no й no qual os nomes: \n дмиерий, ficarão: дмиериевич, corta o й e insere o евич \n юрий, ficarão: юрьевич, corta o ий e adiciona sinal brando + евич \n E quando será ович ou овна? \n Quando a letra antes do o não tiver as terminações do e. \n\n Baseado no que foi mostrado. Complete os nomes do pai a seguir: \n\n карпов Иван Денисович \n нтонова Полина Ивановна \n Иванова Дарья Николаевна \n Чехов Антон Павлович \n Федор Мтхайлович достоевский",
+        "palavras_ocultas": ["Денисович", "Ивановна", "Николаевна", "Павлович", "Мтхайлович"]
+    },
+    {
+        "frase_completa": "Nomes maculinos e femininos que só tem uma forma curta: \n\n Александр, Александра: Саша \n Валентин, Валентина: Валя \n Евгений, Евгения: Жеря",
+        "palavras_ocultas": ["Саша", "Валя", "Жеря"]
+    },
+    {
+        "frase_completa": "Nomes femininos na forma curta: \n\n Ольга: Оля \n Анна: Аня \n Софья: Соня \n Анастасия: Настя \n Наталья: Наташа \n Юлия: Юля \n Татьяна: Таня \n Виктория: Вика \n Мария: Маша \n Елизавета: Лиза \n Варвара: Варя \n Ксения: Ксюша \n Елена: Лена",
+        "palavras_ocultas": ["Оля", "Аня", "Соня", "Настя", "Наташа", "Юля", "Таня", "Вика", "Маша", "Лиза", "Варя", "Ксюша", "Лена"]
+    },
+    {
+        "frase_completa": "Nomes maculinos na forma curta: \n\n Иван: Ваня \n Дмитрий: дима \n Михаил: миша \n Владимир: Вова \n Константин: Костя \n Пётр: Петя\n Фёдор: Федя \n Николай: Коля \n Сергей: Серёжа \n Владислав: Влад \n Григорий: Гриша \n Георгий: Гоща \n Юрий: Юра \n Василий: Вася \n Борис: Боря \n Павел: Паша",
+        "palavras_ocultas": ["Ваня", "дима", "миша", "Вова", "Костя", "Петя","Федя", "Коля", "Серёжа", "Влад", "Гриша", "Гоща","Юра", "Вася", "Боря", "Паша"]
+    },
+    {
+        "frase_completa": "Nomes curtos. \n\n É diferente do diminutivo como Carol e Carolzinha. \n Chamar pelo nome curto na russia pode soar ofensivo. \n É mais para amigos, pessoas próximas, no trabalho, é formal.",
+        "palavras_ocultas": ["ofensivo"]
+    }
+]
+

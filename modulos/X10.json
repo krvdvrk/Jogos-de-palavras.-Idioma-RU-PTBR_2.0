@@ -1,0 +1,50 @@
+[
+    {
+        "frase_completa": "CORES \n\n Rosa : Розовый",
+        "palavras_ocultas": ["Rosa"]
+    },
+    {
+        "frase_completa": "CORES \n\n Cinza : Серый",
+        "palavras_ocultas": ["Серый"]
+    },
+    {
+        "frase_completa": "CORES \n\n Azul : Синий",
+        "palavras_ocultas": ["Azul"]
+    },
+    {
+        "frase_completa": "CORES \n\n Azul bebê : Голубой",
+        "palavras_ocultas": ["Голубой"]
+    },
+    {
+        "frase_completa": "CORES \n\n Amarelo : Жёлтый",
+        "palavras_ocultas": ["Amarelo"]
+    },
+    {
+        "frase_completa": "CORES \n\n Marrom : Коричневый",
+        "palavras_ocultas": ["Marrom"]
+    },
+    {
+        "frase_completa": "CORES \n\n Vermelho : Крaсный",
+        "palavras_ocultas": ["Крaсный"]
+    },
+    {
+        "frase_completa": "CORES \n\n Verde : Зелёный",
+        "palavras_ocultas": ["Зелёный"]
+    },
+    {
+        "frase_completa": "CORES \n\n Violeta : Фиолетовый",
+        "palavras_ocultas": ["Violeta"]
+    },
+    {
+        "frase_completa": "CORES \n\n Laranja : Оранжевый",
+        "palavras_ocultas": ["Laranja"]
+    },
+    {
+        "frase_completa": "CORES \n\n Preto : Чёрный",
+        "palavras_ocultas": ["Чёрный"]
+    },
+    {
+        "frase_completa": "CORES \n\n Branco : Белый",
+        "palavras_ocultas": ["Белый"]
+    }
+]
