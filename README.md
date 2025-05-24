@@ -5,7 +5,7 @@ Programa em Português do Brasil dedicado ao aprendizado do idioma Russo, onde n
 Para executar:
 No sistema operacional Windows, baixe o ZIP deste repositório.
 
-    Para abrir o programa basta executar: RUBRJOGOWin.exe
+    Para abrir o programa basta executar: RUBRJOGO.exe
 
 Capturas de tela do programa:
 
