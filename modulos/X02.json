@@ -1,0 +1,38 @@
+[
+    {
+        "frase_completa": "Como pode-se perceber anteriormente o sinal brando ( ь ) pode determinar se o gênero é tanto masculino como feminino. \n Como saber de fato qual o gênero da palavra terminada em sinal brando? \n\n день, tradução: 'o dia' - É masculino \n ночь, tradução: 'a noite' - É feminino \n\n O único modo de saber é apenas no dicionário, por isso é importante a leitura do mesmo, sempre atentando para as palavras terminadas em sinal brando e memorizando seu gênero.",
+        "palavras_ocultas": ["dia", "noite"]
+    },
+    {
+        "frase_completa": "Defina o gênero em russo das palavras abaixo: \n\n Importante: *O escrito em 'se fala' é demonstrativo e um som aproximado de como se fala a palavra para se ter uma breve percepção, \n mas não é a forma correta de se falar e nem se deve decorar essas formas, \n ao decorrer do tempo e do estudo a pronuncia e forma de falar correta virá de forma natural. \n\n персик [tradução: 'o pêssego' se fala: 'piêrrciik'] : Masculino \n молоко [tradução: 'o leite' se fala: 'malakó'] : Neutro \n книга [tradução: 'o livro' se fala: 'kiniiga'] : Feminino \n день [tradução: 'o dia' se fala: 'dienn'] : Masculino \n комната [tradução: 'o quarto' se fala: 'kominata'] : Feminino \n море [tradução: 'o mar' se fala: 'môôre'] : Neutro \n секрет [tradução: 'o segredo' se fala: 'ciiekreett'] : Masculino \n стол [tradução: 'a mesa' se fala: 'ciitóûl'] : Masculino \n фамилия [tradução: 'sobrenome' se fala: 'famiilya'] : Feminino \n нож [tradução: 'a faca' se fala: 'nôxxii'] : Masculino \n ночь [tradução: 'a noite' se fala: 'nôitchi'] : Feminino \n платье [tradução: 'o vestido' se fala: 'plathi ye'] : Neutro \n торт [tradução: 'o bolo / a torta, quando doce' se fala: 'tôrrrt'] : Masculino \n стекло [tradução: 'o vidro' se fala: 'ciiteeklôó'] : Neutro \n утро [tradução: 'a manhã' se fala: 'utra'] : Neutro \n музыка [tradução: 'música' se fala: 'mûsika'] : Feminino \n растение [tradução: 'a planta' se fala: 'prasthe niye'] : Neutro \n семья [tradução: 'a família' se fala: 'ciimin iá'] : Feminino \n гость [tradução: 'o convidado' se fala: 'guoissti'] : Masculino \n ружьё [tradução: 'a arma' se fala: 'pruzhh ió'] : Neutro \n любовь [tradução: 'o amor' se fala: 'liûboifi'] : Feminino \n огонь [tradução: 'o fogo' se fala: 'àguoin'] :  Masculino \n мебель [tradução: 'a mobília' se fala: 'miebel'] : Feminino \n окно [tradução: 'a janela' se fala: 'àknóh'] : Neutro ",
+        "palavras_ocultas": ["Masculino", "Neutro", "Feminino", "Masculino", "Feminino", "Neutro", "Masculino", "Masculino", "Feminino", "Masculino", "Feminino", "Neutro", "Masculino", "Neutro", "Neutro", "Feminino", "Neutro", "Feminino", "Masculino", "Neutro", "Feminino", "Masculino", "Feminino", "Neutro"]
+    },
+    {
+        "frase_completa": "No russo há 3 'is' \n\n и й ы \n\n и - é uma vogal \n й - é uma consoante \n ы - é uma vogal",
+        "palavras_ocultas": ["vogal", "consoante", "vogal"]
+    },
+    {
+        "frase_completa": "O artigo em português é fundamental para entender os gêneros em russo. \n Português, exemplos: \n O rato / A caneta / O irmão / A irmã",
+        "palavras_ocultas": ["artigo"]
+    },
+    {
+        "frase_completa": "Substantivos quando terminados em \n\n А \n Я \n Ь \n São Femininos \n\n Exemplos: \n книга, комната, фамилия, ночь, музыка, семья, любовь, мебель",
+        "palavras_ocultas": ["Femininos"]
+    },
+    {
+        "frase_completa": "Subtantivos quando terminados em \n\n О \n Е (ie) \n Ё (io) \n São Neutros \n\n Exemplos: \n окно, стекло, растение, платье, ружьё, море, молоко, утро",
+        "palavras_ocultas": ["Neutros"]
+    },
+    {
+        "frase_completa": "Subtantivos quando terminados em \n\n consoante \n ь (sinal brando) \n São Masculinos \n\n Exemplos: \n стол, персик, нож, огонр, торт, секрет, день, гость",
+        "palavras_ocultas": ["Masculinos"]
+    },
+    {
+        "frase_completa": "'книга' (Pronuncia: kniiga) É gênero feminino \n\n Em portugues, significa: 'O livro' \n Na língua russa não se há artigo, ele é omitido. \n Portanto é preciso se desprender da regra dos artigos do português, como se vê no exemplo um substantivo feminino em russo, que em português será masculino.",
+        "palavras_ocultas": ["omitido"]
+    },
+    {
+        "frase_completa": "собака (se fala: ciiabaka) tradução: 'o cachorro' \n\n Qual o gênero em russo? Termina em а logo é feminino.",
+        "palavras_ocultas": ["a", "feminino"]
+    }
+]

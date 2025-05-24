@@ -1,0 +1,318 @@
+[
+    {
+        "palavra": "и",
+        "tradução": "e"
+    },
+    {
+        "palavra": "не",
+        "tradução": "não"
+    },
+    {
+        "palavra": "что",
+        "tradução": "o que, que"
+    },
+    {
+        "palavra": "с",
+        "tradução": "com, de, desde, fora, contra"
+    },
+    {
+        "palavra": "э́то",
+        "tradução": "isto é, isso é, é"
+    },
+    {
+        "palavra": "у",
+        "tradução": "por, com, de (pegar, emprestar)"
+    },
+    {
+        "palavra": "из",
+        "tradução": "de (o interior de), fora de"
+    },
+    {
+        "palavra": "мочь",
+        "tradução": "poder, ser capaz"
+    },
+    {
+        "palavra": "челове́к",
+        "tradução": "pessoa, servil"
+    },
+    {
+        "palavra": "ещё",
+        "tradução": "ainda"
+    },
+    {
+        "palavra": "то́лько",
+        "tradução": "apenas, só"
+    },
+    {
+        "palavra": "кто",
+        "tradução": "quem"
+    },
+    {
+        "palavra": "да",
+        "tradução": "sim, mas, e"
+    },
+    {
+        "palavra": "говори́ть",
+        "tradução": "falar, sugerir"
+    },
+    {
+        "palavra": "и́ли",
+        "tradução": "ou"
+    },
+    {
+        "palavra": "нет",
+        "tradução": "não"
+    },
+    {
+        "palavra": "большо́й",
+        "tradução": "grande"
+    },
+    {
+        "palavra": "друго́й",
+        "tradução": "outro"
+    },
+    {
+        "palavra": "где",
+        "tradução": "onde"
+    },
+    {
+        "palavra": "есть",
+        "tradução": "existe"
+    },
+    {
+        "palavra": "там",
+        "tradução": "lá"
+    },
+    {
+        "palavra": "пото́м",
+        "tradução": "depois"
+    },
+    {
+        "palavra": "о́чень",
+        "tradução": "muito"
+    },
+    {
+        "palavra": "хоте́ть",
+        "tradução": "querer, ter vontade de, significar"
+    },
+    {
+        "palavra": "без",
+        "tradução": "sem, para (tempo)"
+    },
+    {
+        "palavra": "дом",
+        "tradução": "casa"
+    },
+    {
+        "palavra": "то́же",
+        "tradução": "também"
+    },
+    {
+        "palavra": "мо́жно",
+        "tradução": "pode-se (é possível), pode-se (é permitido)"
+    },
+    {
+        "palavra": "здесь",
+        "tradução": "aqui"
+    },
+    {
+        "palavra": "спроси́ть",
+        "tradução": "perguntar"
+    },
+    {
+        "palavra": "октя́брь",
+        "tradução": "outubro"
+    },
+    {
+        "palavra": "жить",
+        "tradução": "viver"
+    },
+    {
+        "palavra": "рабо́та",
+        "tradução": "trabalho"
+    },
+    {
+        "palavra": "понима́ть",
+        "tradução": "entender"
+    },
+    {
+        "palavra": "хорошо́",
+        "tradução": "é bom"
+    },
+    {
+        "palavra": "вода́",
+        "tradução": "água"
+    },
+    {
+        "palavra": "люби́ть",
+        "tradução": "amar"
+    },
+    {
+        "palavra": "Росси́я",
+        "tradução": "Rússia"
+    },
+    {
+        "palavra": "ма́ленький",
+        "tradução": "pequeno, curto, trivial"
+    },
+    {
+        "palavra": "сего́дня",
+        "tradução": "hoje"
+    },
+    {
+        "palavra": "ско́лько",
+        "tradução": "quanto"
+    },
+    {
+        "palavra": "бы́стро",
+        "tradução": "rápido"
+    },
+    {
+        "palavra": "де́вушка",
+        "tradução": "garota, senhorita (informal), namorada"
+    },
+    {
+        "palavra": "ме́дленно",
+        "tradução": "devagar"
+    },
+    {
+        "palavra": "купи́ть",
+        "tradução": "comprar"
+    },
+    {
+        "palavra": "рубль",
+        "tradução": "rublo"
+    },
+    {
+        "palavra": "тру́дно",
+        "tradução": "dificilmente"
+    },
+    {
+        "palavra": "счёт",
+        "tradução": "conta, cheque, conta bancária, pontuação, despesa"
+    },
+    {
+        "palavra": "помо́чь",
+        "tradução": "ajudar"
+    },
+    {
+        "palavra": "чай",
+        "tradução": "chá"
+    },
+    {
+        "palavra": "спаси́бо",
+        "tradução": "obrigado"
+    },
+    {
+        "palavra": "пожа́луйста",
+        "tradução": "por favor, de nada, aqui está"
+    },
+    {
+        "palavra": "пра́вильно",
+        "tradução": "corretamente, apropriadamente"
+    },
+    {
+        "palavra": "вино́",
+        "tradução": "vinho"
+    },
+    {
+        "palavra": "рестора́н",
+        "tradução": "restaurante"
+    },
+    {
+        "palavra": "пи́во",
+        "tradução": "cerveja"
+    },
+    {
+        "palavra": "сто́ить",
+        "tradução": "custar, valer"
+    },
+    {
+        "palavra": "ко́фе",
+        "tradução": "café"
+    },
+    {
+        "palavra": "гости́ница",
+        "tradução": "hotel"
+    },
+    {
+        "palavra": "хо́лодно",
+        "tradução": "está frio"
+    },
+    {
+        "palavra": "такси́",
+        "tradução": "táxi"
+    },
+    {
+        "palavra": "туале́т",
+        "tradução": "banheiro, roupa"
+    },
+    {
+        "palavra": "носо́к",
+        "tradução": "meia"
+    },
+    {
+        "palavra": "краси́во",
+        "tradução": "belamente"
+    },
+    {
+        "palavra": "жа́рко",
+        "tradução": "está quente"
+    },
+    {
+        "palavra": "свобо́дно",
+        "tradução": "livremente, facilmente, fluentemente"
+    },
+    {
+        "palavra": "вку́сно",
+        "tradução": "é gostoso"
+    },
+    {
+        "palavra": "бар",
+        "tradução": "bar"
+    },
+    {
+        "palavra": "суперма́ркет",
+        "tradução": "supermercado"
+    },
+    {
+        "palavra": "по-ру́сски",
+        "tradução": "em russo"
+    },
+    {
+        "palavra": "здра́вствуйте",
+        "tradução": "olá"
+    },
+    {
+        "palavra": "банкома́т",
+        "tradução": "caixa eletrônico"
+    },
+    {
+        "palavra": "извини́те",
+        "tradução": "desculpe"
+    },
+    {
+        "palavra": "он",
+        "tradução": "ele"
+    },
+    {
+        "palavra": "я",
+        "tradução": "eu"
+    },
+    {
+        "palavra": "она́",
+        "tradução": "ela"
+    },
+    {
+        "palavra": "они́",
+        "tradução": "eles"
+    },
+    {
+        "palavra": "мы",
+        "tradução": "nós"
+    },
+    {
+        "palavra": "ты",
+        "tradução": "tu, você"
+    }
+]

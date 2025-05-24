@@ -1,0 +1,174 @@
+[
+    {
+        "frase_completa": "0. Ноль",
+        "palavras_ocultas": ["Ноль"]
+    },
+    {
+        "frase_completa": "1. Один / одна / одно \n\n O '1' tem gênero: Masculino, Feminino e Neutro",
+        "palavras_ocultas": ["Один", "одна", "одно"]
+    },
+    {
+        "frase_completa": "10. Десять",
+        "palavras_ocultas": ["Десять"]
+    },
+    {
+        "frase_completa": "100. Сто",
+        "palavras_ocultas": ["Сто"]
+    },
+    {
+        "frase_completa": "1000. Тысяча",
+        "palavras_ocultas": ["Тысяча"]
+    },
+    {
+        "frase_completa": "101. Cто один",
+        "palavras_ocultas": ["Cто один"]
+    },
+    {
+        "frase_completa": "11. Одиннадцать",
+        "palavras_ocultas": ["Одиннадцать"]
+    },
+    {
+        "frase_completa": "DICA: Do 11 ao 19, será o número sem os sinais adiconado ao final 'надцать'",
+        "palavras_ocultas": ["надцать"]
+    },
+    {
+        "frase_completa": "12. Двенадцать",
+        "palavras_ocultas": ["Двенадцать"]
+    },
+    {
+        "frase_completa": "13. Тринадцать",
+        "palavras_ocultas": ["Тринадцать"]
+    },
+    {
+        "frase_completa": "136. Сто тридцать шесть",
+        "palavras_ocultas": ["Сто тридцать шесть"]
+    },
+    {
+        "frase_completa": "14. Четырнадцать",
+        "palavras_ocultas": ["Четырнадцать"]
+    },
+    {
+        "frase_completa": "144. Сто сорок четыре",
+        "palavras_ocultas": ["Сто сорок четыре"]
+    },
+    {
+        "frase_completa": "15. Пятнадцать",
+        "palavras_ocultas": ["Пятнадцать"]
+    },
+    {
+        "frase_completa": "16. Шестнадцать",
+        "palavras_ocultas": ["Шестнадцать"]
+    },
+    {
+        "frase_completa": "17. Семнадцать",
+        "palavras_ocultas": ["Семнадцать"]
+    },
+    {
+        "frase_completa": "170. Сто семьдесят",
+        "palavras_ocultas": ["Сто семьдесят"]
+    },
+    {
+        "frase_completa": "18. Восемнадцать",
+        "palavras_ocultas": ["Восемнадцать"]
+    },
+    {
+        "frase_completa": "19. Девятнадцать",
+        "palavras_ocultas": ["Девятнадцать"]
+    },
+    {
+        "frase_completa": "2. два: Número dois \n две: duas \n два: Neutro",
+        "palavras_ocultas": ["два", "две", "два"]
+    },
+    {
+        "frase_completa": "20. Двадцать",
+        "palavras_ocultas": ["Двадцать"]
+    },
+    {
+        "frase_completa": "23. Двадцвть три",
+        "palavras_ocultas": ["Двадцвть три"]
+    },
+    {
+        "frase_completa": "3. Три",
+        "palavras_ocultas": ["Три"]
+    },
+    {
+        "frase_completa": "30. Тридцать",
+        "palavras_ocultas": ["Тридцать"]
+    },
+    {
+        "frase_completa": "31. Тридцать один",
+        "palavras_ocultas": ["Тридцать один"]
+    },
+    {
+        "frase_completa": "4. Четыре",
+        "palavras_ocultas": ["Четыре"]
+    },
+    {
+        "frase_completa": "40. Сорок",
+        "palavras_ocultas": ["Сорок"]
+    },
+    {
+        "frase_completa": "41 casas. Сорок один Дом \n\n É preciso concordar o 1 com genero, por isso no exemplo 'casa = Дом' o 1 será 'один'",
+        "palavras_ocultas": ["Сорок один Дом"]
+    },
+    {
+        "frase_completa": "46. Сорок шесть",
+        "palavras_ocultas": ["Сорок шесть"]
+    },
+    {
+        "frase_completa": "5. Пять",
+        "palavras_ocultas": ["Пять"]
+    },
+    {
+        "frase_completa": "50. Пятьдесят",
+        "palavras_ocultas": ["Пятьдесят"]
+    },
+    {
+        "frase_completa": "55. Пятьдесят пять",
+        "palavras_ocultas": ["Пятьдесят пять"]
+    },
+    {
+        "frase_completa": "6. Шесть",
+        "palavras_ocultas": ["Шесть"]
+    },
+    {
+        "frase_completa": "60. Шестьдесят",
+        "palavras_ocultas": ["Шестьдесят"]
+    },
+    {
+        "frase_completa": "7. Семь",
+        "palavras_ocultas": ["Семь"]
+    },
+    {
+        "frase_completa": "70. Семьдесят",
+        "palavras_ocultas": ["Семьдесят"]
+    },
+    {
+        "frase_completa": "74. Семьдесят четыре",
+        "palavras_ocultas": ["Семьдесят четыре"]
+    },
+    {
+        "frase_completa": "77. Семьдесят семь",
+        "palavras_ocultas": ["Семьдесят семь"]
+    },
+    {
+        "frase_completa": "8. Восемь",
+        "palavras_ocultas": ["Восемь"]
+    },
+    {
+        "frase_completa": "80. Восемьдесят",
+        "palavras_ocultas": ["Восемьдесят"]
+    },
+    {
+        "frase_completa": "89. Восемьдесят девять",
+        "palavras_ocultas": ["Восемьдесят девять"]
+    },
+    {
+        "frase_completa": "9. Девять",
+        "palavras_ocultas": ["Девять"]
+    },
+    {
+        "frase_completa": "90. Девяносто",
+        "palavras_ocultas": ["Девяносто"]
+    }
+]

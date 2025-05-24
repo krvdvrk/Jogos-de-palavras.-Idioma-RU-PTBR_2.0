@@ -1,0 +1,42 @@
+[
+    {
+        "frase_completa": "Advérbio é invariável",
+        "palavras_ocultas": ["invariável"]
+    },
+    {
+        "frase_completa": "Когда ?: Quando ? \n Сколько ?: Quanto ? \n Почему ?: Por que ? \n Что ?: O que ? \n Кто ?: Quem ? \n Где ?: Onde ? / Cade ? \n Какой ?: Qual ? \n Как ?: Como ? \n Зачем ?: Para que ?",
+        "palavras_ocultas": ["Quando", "Quanto", "Por que", "O que", "Quem", "Onde", "Cade", "Qual", "Como", "Para que"]
+    },
+    {
+        "frase_completa": "Утром: De manhã \n Днём: De dia \n Вечером: De tarde \n Ночвю: De noite \n Зимой: No inverno \n Весной: Na primavera \n Летом: No verão \n Осенью: No outono",
+        "palavras_ocultas": ["manhã", "dia", "tarde", "noite", "inverno", "primavera", "verão", "outono"]
+    },
+    {
+        "frase_completa": "Хорощо: Bem \n Плохо: Ruim \n Много: Muito \n Мало: Pouco \n Быстро: Rápido \n Медленно: Devagar \n Дорого: Caro \n Дёшево: Barato",
+        "palavras_ocultas": ["Bem", "Ruim", "Muito", "Pouco", "Rápido", "Devagar", "Caro", "Barato"]
+    },
+    {
+        "frase_completa": "Правильно: Сerto \n Неправильно: Errado \n Холодно: Frio \n Жарко: Calor \n Вчера: Ontem \n Сегодня: Hoje \n Завтра: Amanhã",
+        "palavras_ocultas": ["Сerto", "Errado", "Frio", "Calor", "Ontem", "Hoje", "Amanhã"]
+    },
+    {
+        "frase_completa": "1. > Bem. Eu vou te enviar a mensagem. \n > Хорошо. Я отправлю тебе сообщение. \n\n 2. > Você está ruim? \n > Тебе плохо? \n\n 3. > Eu quero muito chocolate. \n > Я хочу мнояо шоколада. \n\n 4. > Mas eu tenho pouco. \n > Но у меня есть мало. \n\n 5. > Eu estudo rápido. \n > Я учусь быстро. \n\n 6. > Eu vou ler devagar. \n > Я буду читать медленно. \n\n 7. > Essa camisa custa caro! \n > Эта рубашка стоит дорого! \n\n 8. > Esses tênis custam barato! \n > Эти кросоовки стоят дёшево!",
+        "palavras_ocultas": ["Хорошо", "плохо", "мнояо", "мало", "быстро", "медленно", "дорого", "дёшево"]
+    },
+    {
+        "frase_completa": "1. > De manhã eu sempre tomo café. \n > Утром я всегда пью кофе. \n\n 2. > De dia eu leio o jornal. \n > Днём я читаю газету. \n\n 3. > De tarde ela come arroz. \n > Вечером она ест рис. \n\n 4. > De noite eu estou com fome. \n > Ночью я голодный. \n\n 5. > No inverno eu tenho as férias. \n > Зимой у меня есть отпуск. \n\n 6. > Na primavera eu gosto de caminhar. \n > Весной я люблю гулять. \n\n 7. > No verão eu vou viajar. \n > Летом я буду путешествовать. \n\n 8. > No outono ela vai arrumar o jardim. \n > Осенью она будет убираться в саду.",
+        "palavras_ocultas": ["Утром", "Днём", "Вечером", "Ночью", "Зимой", "Весной", "Летом", "Осенью"]
+    },
+    {
+        "frase_completa": "1. > Tudo certo! \n > Всё Правильно! \n\n 2. > Essa frase que você escreveu errado. \n > Это предло жение ты написал Неправильно. \n\n 3. > Ela está com frio. \n > Ей холодно. \n\n 4. > Eu estou com calor. \n > Мне жарко. \n\n 5. > Ontem eu escrevi a carta. \n > Вчера я написал письмо. \n\n 6. > Hoje eu cozinho o macarrão. \n > Сегодня я готовлю макароны. \n\n 7. > Amanhã eu vou comprar um carro. \n > Завтра я буду покупать машину.",
+        "palavras_ocultas": ["Правильно", "Неправильно", "холодно", "жарко", "Вчера", "Сегодня", "Завтра"]
+    },
+    {
+        "frase_completa": "1> Quando ele voltará? \n > Когда он вернёеся? \n\n  2> Quanto custa essa casa? \n > Сколько стоит этот дом? \n\n  3> Por que ele voltou? \n > Почему он вернулся? \n\n  4> O que voce perguntou? \n  > Что ты спросия? \n\n  5> Quem fez essa torta? \n > Кто сделал этот пирог? \n\n  6> onde você mora? \n > Где ты живёшь? \n\n  7> Qual lápis é o seu? \n > Какой карандаш твой? \n\n  8> Como falar isso? \n > Как скаэать это? \n\n  9> Para que ela fez a mesa? \n\n > Зачем она сделала стол?",
+        "palavras_ocultas": ["Когда", "Сколько", "Почему", "Что", "Кто", "Где", "Какой", "Как", "Зачем"]
+    },
+    {
+        "frase_completa": "Como ficaria, na tradução em russo? \n\n 1. Cachorro bem domado \n 2. Menino bom \n 3. Menina boa \n\n 1. хорошо сломанная собака \n 2. хороший мальчик \n 3. хорошая девочка \n\n Perceba, que no '1' é advérbio portanto não varia. \n Já no '2 e 3' é adjetivo e por isso varia de acordo com o substantivo.",
+        "palavras_ocultas": ["хорошо", "хороший", "хорошая", "advérbio", "adjetivo"]
+    }
+]

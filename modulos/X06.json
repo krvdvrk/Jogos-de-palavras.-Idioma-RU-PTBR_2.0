@@ -1,0 +1,190 @@
+[
+    {
+        "frase_completa": "Pronomes do caso reto \n\n 'Vocês' em russo é usado em dois sentidos \n\n 1. 'Ты' Para quem você não conhece, sentido formal, como 'senhora', 'a senhora', professores também. \n\n 2.'Вы' Em um sentido informal, como a vendedora de uma farmácia, o guia de um museu, você não conhece essa pessoa, por isso usará a forma informal.",
+        "palavras_ocultas": ["Ты", "Вы"]
+    },
+    {
+        "frase_completa": "Pronomes do caso reto \n\n Я: Eu \n Ты: Você \n Он: Ele \n Она: Ela \n Оно: Neutro \n Мы: Nós \n Вы: Vocês \n Они: Eles / Elas",
+        "palavras_ocultas": ["Eu", "Você", "Ele", "Ela", "Neutro", "Nós", "Vocês", "Eles", "Elas"]
+    },
+    {
+        "frase_completa": "Pronomes do caso reto \n\n Você: 'Ты' é usado para amigos, pessoas próximas, pessoas que você já tem intimidade.",
+        "palavras_ocultas": ["Ты"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n - De quem é essa caneca? \n - Essa caneta é minha. \n - Essa é minha caneta. \n - Esta caneta é sua. \n - Isso é sua caneta. \n\n A tradução para russo é: \n\n - Чья это ручка? \n - Эта ручка моя. \n - Это моя ручка. \n - Эта ручка твоя. \n - Это твоя ручка.",
+        "palavras_ocultas": ["De que é", "Esta", "Isso"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n - De quem é esse leite? \n - Isso é meu leite. \n - Isso é o leite dele. \n\n A tradução para russo é: \n\n - Чьё это молоко? \n - Это моё молоко. \n - Это его молоко.",
+        "palavras_ocultas": ["meu", "dele"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n - De quem é esse lápis? \n - De quem é este lápis? \n - Isso é o lápis dela. \n - Este lápis é nosso. \n- Isso é o lápis deles. \n\n A tradução para russo é: \n\n - Чей это карандаш? \n - Этот карандаш чей? \n - Это её карандаш. \n - Этот карандаш наш. \n - Это их карандаш.",
+        "palavras_ocultas": ["nosso", "deles", "Чей"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n - De quem é este leite? \n - Este leite é meu. \n - Este leite é vosso. \n\n A tradução para russo é: \n\n - Это молоко чьё? \n - Это молоко моё. \n - Это молоко ваше." ,
+        "palavras_ocultas": ["vosso", "чьё", "моё"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Aquele cachorro é muito grande. \n\n A tradução em russo é: \n\n Та собака очень большая.",
+        "palavras_ocultas": ["Та"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Aquele lápis é pequeno. \n\n A tradução em russo é: \n\n Тот карандаш маленький.",
+        "palavras_ocultas": ["Тот"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Aquele vinho, por favor. \n\n A tradução em russo é: \n\n То вино, пожалуйста.",
+        "palavras_ocultas": ["То"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n De quem é essa casa? \n\n A tradução em russo é: \n\n Чей это дом? \n Этот дом чей? \n\n A diferença entre as duas é: \n\n Этот дом чей? - Aqui começa com o pronome, eu quero saber sobre esta casa, é como se eu pudesse mostrar. A casa está perto de você. \n Poderia ser melhor entendida como a tradução 'Essa casa é de quem?' \n\n Чей это дом? - Aqui com o 'это' é como se eu não soubesse de quem é a casa, então pergunto 'de quem é essa casa?' \n\n Resumidamente: \n Quando eu uso o pronome primeiro 'Этот дом чей?' é como se eu estivesse usando o 'esta'.",
+        "palavras_ocultas": ["sobre", "perto"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n De quem é este carro? \n\n A tradução em russo será: \n\n Чья это машина?",
+        "palavras_ocultas": ["Чья"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n De quem é este lugar? \n\n A tradução em russo é: \n\n Чьё это место?",
+        "palavras_ocultas": ["Чьё"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Essa casa é velha. \n\n A tradução para lingua russa: \n\n Этот дом старый.",
+        "palavras_ocultas": ["Этот"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Essa janela é azul. \n\n A tradução para língua russa é: \n\n Это окно синее.",
+        "palavras_ocultas": ["Это"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Este carro é bonito. \n\n A tradução para lingua russa: \n\n Эта машина красивая.",
+        "palavras_ocultas": ["Эта"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Isso é o mar. \n\n A tradução para língua russa é: \n\n Это море.",
+        "palavras_ocultas": ["Это"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Isso é uma caneta. \n\n A tradução para lingua russa: \n\n Это ручка.",
+        "palavras_ocultas": ["Это"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Isso é uma mesa. \n\n A tradução para lingua russa: \n\n Это стол.",
+        "palavras_ocultas": ["Это"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Na língua russa, vai haver diferença se um objeto está longe ou perto? \n Sim e Não \n\n No quesito de 'esta' e 'aquela', sim haverá. \n No quesito 'isso' e 'isto', não haverá. ",
+        "palavras_ocultas": ["esta", "aquela", "isso", "isto"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n de quem? \n\n Masculino: Чей? \n Feminino: Чья? \n Neutro: Чьё?",
+        "palavras_ocultas": ["Чей", "Чья", "Чьё"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Тот: aquele - masculino \n Tа: aquela - feminino \n То: aquele - neutro \n Те: aqueles, aquelas - plural",
+        "palavras_ocultas": ["neutro", "Те"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Этот: este, esse - Masculino \n Эта: esta, essa - Feminino \n Это: este, esse - Neutro \n Эти: estes, estas, esses, essas - Plural \n *Это: isso, isto",
+        "palavras_ocultas": ["Этот", "Эта", "Эти"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Та книга в шкафу - Aquele livro está no armario. \n То окно очень болшое - Aquela janela é muito grande.\n Этот дом синий - Esta casa é azul.",
+        "palavras_ocultas": ["Aquele", "Aquela", "Esta"]
+    },
+    {
+        "frase_completa": "Pronomes demonstrativos \n\n Такой / Такая / Такое é o equivalente a: tão \n\n Como exemplo: Essa casa é tão velha ",
+        "palavras_ocultas": ["Такой", "Такая"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é a água delas. \n 2. Isso é a cadeira delas. \n 3. Isso é o mar deles. \n\n A tradução para russo é: \n\n 1. Это их вода. \n 2. Это их стул. \n 3. Это их морею.",
+        "palavras_ocultas": ["deles"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é nosso armário. \n 2. Isso é nosso vestido. \n 3. Isso é nossa camisa. \n\n A tradução para russo é: \n\n 1. Это наш шкаф. -  masculino \n 2. Это наше платье. - neutro \n 3. Это наша рубашка. - feminino ",
+        "palavras_ocultas": ["masculino", "наше", "наша"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é o chocolate dela. \n 2. Isso é a laranja dela. \n 3. Isso é o ovo dela. \n\n A tradução para russo é: \n\n 1. Это её шоколадю \n 2. Это её апельсин. \n 3. Это её яйцо.",
+        "palavras_ocultas": ["chocolate", "laranja", "ovo"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é prato dele. \n\n A tradução para russo é: \n\n 1. Это его тарелка.",
+        "palavras_ocultas": ["его"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é seu caderno. \n 2. Isso é sua janela. \n 3. Isso é seu avião. \n\n A tradução para russo é: \n\n 1. Это твоя тетрадь. - Termina em sinal brando, por isso é necessário verificar o vocabulário/dicionário, nesse caso é feminino. \n 2. Это твоё окно. \n 3. Это твой самолёт.",
+        "palavras_ocultas": ["твоя", "твоё", "твой"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 1. Isso é vossa porta. \n 2. Isso é vosso biscoito. \n 3. Isso é vosso computador. \n\n A tradução para russo é: \n\n 1. Это ваша дверь. - Termina em sinal brando necessário ver o vocabulário/dicionário, nesse caso é feminino. \n 2. Это ваше печенье. - Neutro \n 3. Это ваш компьютер. - Masculino",
+        "palavras_ocultas": ["ваша", "ваше", "ваш"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Esse carro é meu. \n\n A tradução para o russo é: \n\n Эта машина моя",
+        "palavras_ocultas": ["моя"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Isso é minha janela. \n\n A tradução em russo é: \n\n Это моё окно.",
+        "palavras_ocultas": ["моё"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Isso é minha mesa. \n\n A tradução para russo é: \n\n Это мой стол.",
+        "palavras_ocultas": ["мой"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Minha casa é bonita \n\n A tradução para russo é: \n\n мой дом красивый.",
+        "palavras_ocultas": ["мой"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Meu: Мой \n Minha: Моя \n Meu (neutro): Моё",
+        "palavras_ocultas": ["Мой", "Моя", "Моё"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n  Os 4 pronomes possessivos que não concordam com o substantivo são: его \n её \n его (neutro) \n иx",
+        "palavras_ocultas": ["его", "её", "иx"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Seu: Твой \n Sua: Твоя \n Seu (neutro): Твоё ",
+        "palavras_ocultas": ["Твой", "Твоя", "Твоё"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Sua casa é bonita \n\n A tradução para russo é: \n\n Твой дом красвый.",
+        "palavras_ocultas": ["Твой"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n Мой: Meu \n Моя: Minha \n Моё: Neutro \n\n Твой: Seu \n Твоя: Sua \n Твоё: Neutro \n\n его: dele \n её: dela \n его: neutro \n\n Наш: nosso \n Наша: nossa \n Наше: neutro \n Ваш: vosso \n Ваша: vossa \n Ваше: neutro \n\n Их: deles / delas",
+        "palavras_ocultas": ["Meu", "Minha", "Neutro", "Seu", "Sua", "Neutro", "dele", "dela", "nosso", "nossa", "vosso", "vossa", "deles", "delas"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n - Que mulher bonita! \n\n A tradução para o russo é: \n\n - Какая красивая женщина!",
+        "palavras_ocultas": ["Какая"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n - Que bonito! \n - Que triste! \n - Que alegria! \n - Que engraçado! \n - Que caro! \n - Que barato! \n - Que frio! \n - Que gostoso! \n - Que bom! \n\n A tradução para russo é : \n\n - Как красиво! \n - Как грустно! \n - Как весело! \n - Как смешно! \n - Как лорого!\n - Как дёшево! \n - Как холодно! \n - Как вкусно! \n - Как хорошо! \n\n Perceba que todos são advérbios 'bonito, triste, alegria, engraçado ...'. Portanto usa-se 'Как' \n Outro detalhe, perceba que todos eles terminam com 'o' como 'смешно', não é uma regra pois há exceções, mas a maioria sim termina com essa letra.",
+        "palavras_ocultas": ["o"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n - Que carro bonito! \n\n A tradução para o russo é: \n\n - Какая красивая машина!",
+        "palavras_ocultas": ["Какая"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n - Que casa grande! \n\n A tradução para o russo é: \n\n Какой большой дом!",
+        "palavras_ocultas": ["Какой"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n - Que mar frio! \n\n A tradução para o russo é: \n\n Какое холодное море!",
+        "palavras_ocultas": ["Какое"]
+    },
+    {
+        "frase_completa": "Pronomes relativos \n\n No russo utiliza-se o 'как' para complementar um adjetivo e pode ser advérbio também. \n\n 1º caso \n Какой ( Masc ) \n Какая ( Fem ) \n Какое ( Neutro ) \n São usados quando: \n\n Какой/ Какая/ Какое + adjetivo ou substantivo \n Какой/ Какая/ Какое + adjetivo mais substantivo",
+        "palavras_ocultas": ["ou", "mais"]
+    },
+    {
+        "frase_completa": "Pronomes possessivos \n\n 2º caso \n Kак \n É usado \n Как + advérbio",
+        "palavras_ocultas": ["advérbio", "", ""]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "frase_completa": "A tradução de: \n\n - А меня зовут Аня \n\n é: \n\n - E meu nome é Ana \n\n Аня é o nome curto de Ana, portanto é informal",
+        "palavras_ocultas": ["E meu nome é Ana", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Давай познакомимся. Как тебя зовут? \n\n é: \n\n - Vamos nos conhecer. Qual é seu nome? \n\n É informal",
+        "palavras_ocultas": ["Vamos nos conhecer. Qual é seu nome?", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Давайте познакомися. Кaк тебя зовут? \n\n é: \n\n - Vamos todos nos conhecer. Qual é seu nome? \n\n Meio formal e meio informal",
+        "palavras_ocultas": ["Vamos todos nos conhecer. Qual é seu nome?", "Meio formal e meio informal"]
+    },
+    {
+        "frase_completa": "Prestar atenção no Давайте,  o 'те' indicará plural. \n\n Давай - Vamos nos conhecer \n Давайте - Vamos todos nos conhecer",
+        "palavras_ocultas": ["Давай", "Давайте"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Здравствуйте, дети! Я ваш учитель. Меня зовут Михаил Андреевич. \n\n é: \n\n - Olá crianças! Eu sou vosso professor. Meu nome é Mirrail Andreivitch. \n Pode ser também: \n - Olá crianças! Eu sou o professor de vocês. Meu nome é Mirrail Andreivitch. \n\n É meio formal e meio informal",
+        "palavras_ocultas": ["meio formal e meio informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - И мне. \n\n é: \n\n - Eu também. \n\n É informal",
+        "palavras_ocultas": ["Eu também", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Меня зовут Дмитрий. А тебя? \n\n é: \n\n - Meu nome é Dimitri. E o seu? \n\n É informal",
+        "palavras_ocultas": ["Meu nome é Dimitri. E o seu?", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Привет! \n\n é: \n\n - Oi ! \n\n É informal",
+        "palavras_ocultas": ["Oi", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - - Приятно познакомиться, Аня. \n\n é: \n\n - Prazer em conhecê-la, Ana. \n\n É informal",
+        "palavras_ocultas": ["Prazer em conhecê-la, Ana", "informal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - А меня эовут Владимир Анлреевич. \n\n é: \n\n - E meu nome é Vladimir Andreivitch. \n\n É formal",
+        "palavras_ocultas": ["E meu nome é Vladimir Andreivitch", "formal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Здравствуйте \n\n é: \n\n - Olá \n\n É formal",
+        "palavras_ocultas": ["Olá", "formal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Меня эовут Сергей Петрович. А вас? \n\n é: \n\n - Meu nome é Sergei Pretrovitch. E o seu? \n\n É formal",
+        "palavras_ocultas": ["Meu nome é Sergei Pretrovitch. E o seu?", "formal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Очень приятно \n\n é: \n\n - Muito prazer. \n\n É formal",
+        "palavras_ocultas": ["Muito prazer", "formal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - как вас зовут? \n\n é: \n\n - Como você se chama? \n\n É formal",
+        "palavras_ocultas": ["Como você se chama", "formal"]
+    },
+    {
+        "frase_completa": "A tradução de: \n\n - Привет! \n - Привет! \n - Давай познакомимся. Как тебя зовут? \n - Меня зовут Дмитрий. А тебя? \n - А меня зовут Аня \n - Приятно познакомиться, Аня. \n - И мне. \n\n é: \n\n - Oi! \n - Oi! \n - Vamos nos conhecer. Qual é seu nome? \n - Meu nome é Dimitri. E o seu? \n - E meu nome é Ana \n - Prazer em conhecê-la, Ana. \n - Eu também. \n\n É informal",
+        "palavras_ocultas": ["Vamos nos conhecer. Qual é seu nome?", "Meu nome é Dimitri. E o seu?", "E meu nome é Ana", "Prazer em conhecê-la, Ana", "Eu também", "informal"]
+    }
+]

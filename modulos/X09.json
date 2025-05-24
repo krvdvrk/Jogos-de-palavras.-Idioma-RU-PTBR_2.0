@@ -1,0 +1,54 @@
+[
+    {
+        "frase_completa": "'Eu tenho' \n Traduza: \n\n У меня есть: Eu tenho \n У тебя есть: Você tem \n У него есть: Ele tem \n У неё есть: Ela tem \n У него есть: Neutro \n У нас есть: Nós temos \n У вас есть: Vocês tem \n У них есть: Eles tem",
+        "palavras_ocultas": ["Eu tenho", "Você tem", "Ele tem", "Ela tem", "Neutro", "Nós temos", "Vocês tem", "Eles tem"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n 'Ela tem um livro ou um caderno?' \n\n У неё есть книга или тетрадь? ",
+        "palavras_ocultas": ["У неё есть книга или тетрадь"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Ele tem o peixe grande? \n\n У него есть большая рыба",
+        "palavras_ocultas": ["У него есть большая рыба"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Eles têm a janela e a mesa \n\n У них есть окно и стол",
+        "palavras_ocultas": ["У них есть окно и стол"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Eu tenho um carro bonito",
+        "palavras_ocultas": ["У меня есть красивая машина"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Eu tenho uma bicicleta azul e uma caneta verde \n\n У меня есть синий велосипед и зелёная ручка",
+        "palavras_ocultas": ["У меня есть синий велосипед и зелёная ручка"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Eu tenho uma lâmpada \n\n У меня есть лампа",
+        "palavras_ocultas": ["У меня есть лампа"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Nós temos um cachorro \n\n У нас есть собака",
+        "palavras_ocultas": ["У нас есть собака"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n O leite tem açucar? \n\n У него есть сахар",
+        "palavras_ocultas": ["У него есть сахар"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n O senhor tem o jornal? \n\n ",
+        "palavras_ocultas": ["У вас есть газета"]
+    },
+    {
+        "frase_completa": "Traduza: \n\n Você tem um livro? \n\n У тебя есть книга?",
+        "palavras_ocultas": ["У тебя есть книга"]
+    },
+    {
+        "frase_completa": "У меня есть \n\n У siginifica que está perto de mim.",
+        "palavras_ocultas": ["perto"]
+    },
+    {
+        "frase_completa": "меня siginifca meu. \n\n У меня есть + substantivo e/ou adjetivo, é do caso nominativo.",
+        "palavras_ocultas": ["meu", "substantivo"]
+    }
+]

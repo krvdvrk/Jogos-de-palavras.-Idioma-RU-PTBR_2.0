@@ -1,0 +1,102 @@
+[
+    {
+        "frase_completa": "'Anos' em russo, quando terminar no número '0, 5, 6, 7, 8 e 9' Se dirá: лет",
+        "palavras_ocultas": ["лет"]
+    },
+    {
+        "frase_completa": "'Anos' em russo, quando terminar no número '1' Se dirá: год",
+        "palavras_ocultas": ["год"]
+    },
+    {
+        "frase_completa": "'Anos' em russo, quando terminar no número '2, 3 e 4' Se dirá: года",
+        "palavras_ocultas": ["года"]
+    },
+    {
+        "frase_completa": "'Horas' em russo, quando terminar no número '0, 5, 6, 7, 8 e 9' Se dirá: часов",
+        "palavras_ocultas": ["часов"]
+    },
+    {
+        "frase_completa": "'Horas' em russo, quando terminar no número '1' Se dirá: час",
+        "palavras_ocultas": ["час"]
+    },
+    {
+        "frase_completa": "'Horas' em russo, quando terminar no número '2, 3 e 4' Se dirá: часа",
+        "palavras_ocultas": ["часа"]
+    },
+    {
+        "frase_completa": "'Minutos' em russo, quando terminar no número '0, 5, 6, 7, 8 e 9' Se dirá: минут",
+        "palavras_ocultas": ["минут"]
+    },
+    {
+        "frase_completa": "'Minutos' em russo, quando terminar no número '1' Se dirá: минута",
+        "palavras_ocultas": ["минута"]
+    },
+    {
+        "frase_completa": "'Minutos' em russo, quando terminar no número '2, 3 e 4' Se dirá: минуты",
+        "palavras_ocultas": ["", "", ""]
+    },
+    {
+        "frase_completa": "Seis anos: Шесть лет",
+        "palavras_ocultas": ["Шесть лет"]
+    },
+    {
+        "frase_completa": "Dezenove anos: Девятнадцать лет",
+        "palavras_ocultas": ["Девятнадцать лет"]
+    },
+    {
+        "frase_completa": "Cento e um anos: Сто один год",
+        "palavras_ocultas": ["Сто один год"]
+    },
+    {
+        "frase_completa": "Cinquenta e três anos: Пятьдесят три года",
+        "palavras_ocultas": ["Пятьдесят три года"]
+    },
+    {
+        "frase_completa": "É nove horas: Сейчас девять часов",
+        "palavras_ocultas": ["Сейчас девять часов"]
+    },
+    {
+        "frase_completa": "São vinte e uma horas: Сейчас двадцать один час",
+        "palavras_ocultas": ["Сейчас двадцать один час"]
+    },
+    {
+        "frase_completa": "É quatro horas: Четыре часа",
+        "palavras_ocultas": ["Четыре часа"]
+    },
+    {
+        "frase_completa": "São vinte horas: Сейчас двадцать часов",
+        "palavras_ocultas": ["Сейчас двадцать часов"]
+    },
+    {
+        "frase_completa": "Воскресенье: Domingo",
+        "palavras_ocultas": ["Domingo"]
+    },
+    {
+        "frase_completa": "Среда: Quarta-Feira",
+        "palavras_ocultas": ["Среда"]
+    },
+    {
+        "frase_completa": "Четверг: Quinta-Feira",
+        "palavras_ocultas": ["Четверг"]
+    },
+    {
+        "frase_completa": "Понедельник: Segunda-Feira",
+        "palavras_ocultas": ["Понедельник"]
+    },
+    {
+        "frase_completa": "Пятница: Sexta-Feira",
+        "palavras_ocultas": ["Пятница"]
+    },
+    {
+        "frase_completa": "Суббота: Sábado",
+        "palavras_ocultas": ["Суббота"]
+    },
+    {
+        "frase_completa": "Вторник: Terça-Feira",
+        "palavras_ocultas": ["Вторник"]
+    },
+    {
+        "frase_completa": "1- Который час? \n 2- Cколько времени? \n\n Traduza as frases \n\n 1- Que horas são? \n 2- Quanto tempo?",
+        "palavras_ocultas": ["Que horas são", "Quanto tempo"]
+    }
+]

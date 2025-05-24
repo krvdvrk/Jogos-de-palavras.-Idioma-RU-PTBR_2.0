@@ -1,0 +1,78 @@
+[
+    {
+        "frase_completa": "'A casa grande' \n большой 'Tradução: grande' \n дом 'Tradução: a casa' \n\n большой дом \n\n Sabendo que дом é um substantivo masculino. Qual terminação correta do adjetivo masculino? \n  Já que existem 3: ой / ий / ый' \n\n É preciso descobrir a sílaba tônica \n дом é masculino, termina em м \n ом tem som de OM, a silaba tônica então será ой",
+        "palavras_ocultas": ["большой", "ой"]
+    },
+    {
+        "frase_completa": "'O cachorro bonito' \n красивый 'Tradução: bonito' \n собакa 'Tradução: o cachorro' \n\n красивая собакa \n\n красивый é adjetivo masculino \n собакa é substantivo masculino. \n É preciso mudar красивый para o feminino.",
+        "palavras_ocultas": ["красивая"]
+    },
+    {
+        "frase_completa": "1ª palavra é sempre adjetivo \n 2ª palavra é sempre substantivo",
+        "palavras_ocultas": ["adjetivo", "substantivo"]
+    },
+    {
+        "frase_completa": "Adjetivo sempre concorda com o substantivo: \n\n большой (barl chói) 'Tradução: grande' \n собака  (ciiabaka) 'Tradução: Cachorro' \n большой (é adjetivo masculino) собака (é substantivo feminino) \n Visto que o Adjetivo sempre concorda com o substantivo, como será a forma certa de pronunciar ''cachorro grande'? \n\n Muda o adjetivo para concordar com o substantivo, nesse caso o adjetivo большой mudará para o feminino e ficará большая  собака",
+        "palavras_ocultas": ["adjetivo", "substantivo", "adjetivo", "feminino", "большая  собака"]
+    },
+    {
+        "frase_completa": "Em que parte da palavra se define o adjetivo? \n Exemplo: \n 'большой' \n Nas duas útlimas letras. ",
+        "palavras_ocultas": ["adjetivo"]
+    },
+    {
+        "frase_completa": "Adjetivo feminino, quais? АЯ, ЯЯ ",
+        "palavras_ocultas": ["feminino"]
+    },
+    {
+        "frase_completa": "Adjetivo masculino, quais? ОЙ, ИЙ, ЫЙ ",
+        "palavras_ocultas": ["masculino"]
+    },
+    {
+        "frase_completa": "Adjetivo neutro, quais? ОЕ, ЕЕ ",
+        "palavras_ocultas": ["ОЕ", "ЕЕ"]
+    },
+    {
+        "frase_completa": "Complete e defina o gênero do adjetivo: \n\n красивый 'A mesa' \n стол 'bonita' \n\n 'A mesa bonita' : Em russo: красивый стол \n Gênero: masculino",
+        "palavras_ocultas": ["красивый стол", "masculino"]
+    },
+    {
+        "frase_completa": "Complete e defina o gênero do adjetivo: \n\n машина 'O carro' \n красный 'vermelho' \n\n 'O carro vermelho' : \n Em russo: красная машина \n Gênero: feminino",
+        "palavras_ocultas": ["красная машина", "feminino"]
+    },
+    {
+        "frase_completa": "Complete e defina o gênero do adjetivo: \n\n молоко 'O leite' \n холдный 'frio' \n 'O leite frio' : \n\n Em russo: холдное молоко \n Gênero: neutro",
+        "palavras_ocultas": ["холдное молоко", "neutro"]
+    },
+    {
+        "frase_completa": "Complete e defina o gênero do adjetivo: \n\n мужчина 'O homem' \n стазый 'velho' \n 'O homem velho' : \n\n Em russo: стазый мужчина \n  Gênero: masculino",
+        "palavras_ocultas": ["стазый мужчина", "masculino"]
+    },
+    {
+        "frase_completa": "Ué, mas мужчина termina em 'а' que é feminino, por que o adjetivo fica no masculino? \n\n Essa é uma exceção, por isso é necessário decorar: Homem é мужчина e termina em 'a' mas é um substantivo MASCULINO.",
+        "palavras_ocultas": ["exceção"]
+    },
+    {
+        "frase_completa": "Complete e defina o gênero do adjetivo: \n\n птица 'O passaro' \n синий 'azul' \n\n 'O pássaro azul' : Em russo: синяя птица \n Gênero: feminino",
+        "palavras_ocultas": ["синяя птица", "feminino"]
+    },
+    {
+        "frase_completa": "Defina o gênero dos adjetivos nas palavras: \n\n громкий смех : Masculino \n новая книга : Feminino \n синее стекло : Neutro \n маленькая комната : Feminino \n серый кот : Masculino \n огромное окно : Neutro \n красивый дом : Masculino \n весенняя погода : Feminino \n большой стол : Masculino \n холодное море : Neutro \n тёмная ночь : Feminino \n черное платье : Neutro",
+        "palavras_ocultas": ["Masculino", "Feminino", "Neutro", "Feminino", "Masculino", "Neutro", "Masculino", "Feminino", "Masculino", "Neutro", "Feminino", "Neutro"]
+    },
+    {
+        "frase_completa": "Quando escrevemos terminação ИЙ, quando a letra antes dessa terminação é: \n\n К, Г, Х, Ч, Ш, Щ (essas as principais) Н, Л, e outras.",
+        "palavras_ocultas": ["ИЙ"]
+    },
+    {
+        "frase_completa": "Quando escrevemos ий, яя, ee? \n\n Exemplos: \n синий (tradução: 'azul') \n -> Quando tem no masculino н+ий você pode mudar para o feminino ou neutro \n\n > Sabendo que 'a caneta' é 'ручка' \n Como ficaria em russo a frase: 'A caneta azul' синяя ручка \n\n > Sabendo que 'o mar' é 'море' \n Como ficaria em russo a frase: 'O mar azul' \n синее море",
+        "palavras_ocultas": ["синяя", "синее"]
+    },
+    {
+        "frase_completa": "Antes das duas últimas letras definidoras do adjetivo se a letra for o 'н' ficando 'н+ий' sendo o masculino, pode ser substituir para o feminino 'н+яя' e para o neutro 'н+ее'",
+        "palavras_ocultas": ["adjetivo"]
+    },
+    {
+        "frase_completa": "зимний (Tradução: não há uma tradução específica, é mais como 'do inverno, invernal') \n\n Sabendo que carro é 'машина' \n Como fica em russo a frase 'O carro invernal' \n зимняя машнна \n\n Sabendo que janela é 'окно' \n Como fica em russo a frase 'a janela invernal' \n эимнее окно",
+        "palavras_ocultas": ["зимняя", "эимнее"]
+    }
+]

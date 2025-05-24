@@ -1,0 +1,130 @@
+[
+    {
+        "frase_completa": "Alfabeto Russo tem 33 letras, 10 vogais, 2 sinais, 21 consoantes.",
+        "palavras_ocultas": ["33", "10", "2", "21"]
+    },
+    {
+        "frase_completa": "Analogicamente com as vogais em portugues, correlacione os vogais com seus pares semelhantes: \n\n Аа (a) - Яя (ia) \n Ээ (e) - Ее (ie) \n Ии (i) - Ыы (ûii) \n Оо (o) - Ёё (io) \n Уу (u) - Юю (iu)",
+        "palavras_ocultas": ["a", "ia", "e", "ie", "i", "ûii", "o", "io", "u", "iu"]
+    },
+    {
+        "frase_completa": "Шш \n Som: chá \n É mais aberto podemos imaginar exageradamente chááá \n\n Щщ \n Som: xiiichá \n Podemos imaginar que tem um chiado de rádio no início e o chá é mais fechado no final, ficaria algo como xiiiiiichá ",
+        "palavras_ocultas": ["Шш", "Щщ"]
+    },
+    {
+        "frase_completa": "Аа \n\n Som: A \n Normal, apenas um pouco mais agudo",
+        "palavras_ocultas": ["Аа"]
+    },
+    {
+        "frase_completa": "Бб \n\n Som: bÊ",
+        "palavras_ocultas": ["Бб"]
+    },
+    {
+        "frase_completa": "Вв \n\n Som: v ou vÊ",
+        "palavras_ocultas": ["Вв"]
+    },
+    {
+        "frase_completa": "Дд \n\n Som: d ou dÊ \n É um som mais forte.",
+        "palavras_ocultas": ["Дд"]
+    },
+    {
+        "frase_completa": "Ее \n Som: ie \n\n Ёё \n Som: io",
+        "palavras_ocultas": ["Ее", "Ёё"]
+    },
+    {
+        "frase_completa": "Жж \n\n Som: g",
+        "palavras_ocultas": ["Жж"]
+    },
+    {
+        "frase_completa": "Зз \n\n Som: z \n Igual uma abelha, izzzee.",
+        "palavras_ocultas": ["Зз"]
+    },
+    {
+        "frase_completa": "Ии \n\n Som: i",
+        "palavras_ocultas": ["Ии"]
+    },
+    {
+        "frase_completa": "Йй \n\n Siginifica i breve, i curto",
+        "palavras_ocultas": ["Йй"]
+    },
+    {
+        "frase_completa": "Кк \n\n Som: k ou ka \n Um k duro.",
+        "palavras_ocultas": ["Кк"]
+    },
+    {
+        "frase_completa": "Лл \n\n Som: l ou êle",
+        "palavras_ocultas": ["Лл"]
+    },
+    {
+        "frase_completa": "Мм \n\n Som: êma",
+        "palavras_ocultas": ["Мм"]
+    },
+    {
+        "frase_completa": "Нн \n\n Som: êna",
+        "palavras_ocultas": ["Нн"]
+    },
+    {
+        "frase_completa": "Оо \n\n Som: óô",
+        "palavras_ocultas": ["Оо"]
+    },
+    {
+        "frase_completa": "Пп \n\n Som: pûê, e se fala rápido \n p mudo. p seco. se ussasse na palavra pato ficaria: Pûêato \n *não é igual a letra p do alfabeto português",
+        "palavras_ocultas": ["Пп"]
+    },
+    {
+        "frase_completa": "Рр \n\n Som: errêê \n Única letra vibrante do alfabeto russo. Treme a língua no rrêê.",
+        "palavras_ocultas": ["Рр"]
+    },
+    {
+        "frase_completa": "Сс \n\n Som: cii \n Lembra o chiado shhh só que ciiii",
+        "palavras_ocultas": ["Сс"]
+    },
+    {
+        "frase_completa": "Тт \n\n Som: t ou tê \n t duro.",
+        "palavras_ocultas": ["Тт"]
+    },
+    {
+        "frase_completa": "Уу \n\n Som: uu",
+        "palavras_ocultas": ["Уу"]
+    },
+    {
+        "frase_completa": "Фф \n\n Som: êfii",
+        "palavras_ocultas": ["Фф"]
+    },
+    {
+        "frase_completa": "Хх \n\n Som: rá \n Puxa bem do fundo o r e solta no á.",
+        "palavras_ocultas": ["Хх"]
+    },
+    {
+        "frase_completa": "Цц \n\n Som: tze",
+        "palavras_ocultas": ["Цц"]
+    },
+    {
+        "frase_completa": "Чч \n\n Som: tchie \n Lembrar dos gaúchos.",
+        "palavras_ocultas": ["Чч"]
+    },
+    {
+        "frase_completa": "Ыы \n\n Som: ûiii \n Você vai por a lingua no céu da boca e puxar pra dentro o 'i'. Ûûiiii",
+        "palavras_ocultas": ["Ыы"]
+    },
+    {
+        "frase_completa": "Ээ \n\n Som: é",
+        "palavras_ocultas": ["Ээ"]
+    },
+    {
+        "frase_completa": "Юю \n\n Som: iû",
+        "palavras_ocultas": ["Юю"]
+    },
+    {
+        "frase_completa": "Яя \n\n Som: iá",
+        "palavras_ocultas": ["Яя"]
+    },
+    {
+        "frase_completa": "ъ \n\n É um sinal duro, ele divide a palavra no meio. \n Exemplo: Palavra иодъезд \n Eu não falo padiest eu falo pad iest. \n\n Perceba que ele funciona como um espaço sonoro na palavra. Como duas palavras diferentes. \n Ele corta a palavra",
+        "palavras_ocultas": ["ъ"]
+    },
+    {
+        "frase_completa": "ь \n\n É um sinal brando. \n Quando na ultima palavra пет (peti) com петь fica (petishh) / Quando no meio, семья (cimin yá) e não (ciminyá) como uma pausa branda. \n\n  Para ajudar, lembrar do barulho quando ele freia e faz aquele barulho (shh)",
+        "palavras_ocultas": ["ь"]
+    }
+]

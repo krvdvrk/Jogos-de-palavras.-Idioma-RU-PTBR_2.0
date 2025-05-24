@@ -1,0 +1,66 @@
+[
+    {
+        "frase_completa": "'Nós somos brasileiros.' \n\n Tradução: Мы бразильцы \n\n O que podemos observar aqui? \n\n No russo eles omitem o verbo estar no presente. \n Eu sou, você é, nós somos ...\n Não significa que não existem, mas eles são OMITIDOS.",
+        "palavras_ocultas": ["estar", "sou", "é", "somos"]
+    },
+    {
+        "frase_completa": "Como é a frase 'Ser ou nao ser' em russo? \n\n Быть или не быть",
+        "palavras_ocultas": ["Быть или не быть"]
+    },
+    {
+        "frase_completa": "Existe artigo em russo? Não",
+        "palavras_ocultas": ["Não"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Nominativo: É dar nome as coisas, objetos, animais pessoas, etc.",
+        "palavras_ocultas": ["Nominativo"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Genitivo: Lembra gênesis, remete a origem de alguma coisa, do que ele foi feito, de onde ele veio 'Eu sou do Brasil' ...",
+        "palavras_ocultas": ["Genitivo"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Dativo: Designa uma pessoa para outra. Designa alguma coisa que você vai dar para outra pessoa, é uma ação que se dirige.",
+        "palavras_ocultas": ["Dativo"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Acusativo: Designa ação, toda ação: pronome pessoal do caso reto + ação será acusativo.",
+        "palavras_ocultas": ["Acusativo"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Instrumental: Ele vai responder a pergunta 'Por meio de quem' 'Por meio de que' ... 'O café foi feito por meio de coador'",
+        "palavras_ocultas": ["Instrumental"]
+    },
+    {
+        "frase_completa": "Casos em Russo, defina: \n\n Prepositivo: Ele vai responder a pergunta 'Sobre quem?' 'Sobre o que?' ... Sempre tem preposição.",
+        "palavras_ocultas": ["Prepositivo"]
+    },
+    {
+        "frase_completa": "No caso nominativo, teremos duas formas de usá-lo: \n\n Кто это? Será usado para coisas que tenham ALMA, ou seja, humanos, cachorros. \n Equivale a Quem é esse? ou Quem é essa? \n\n Что Это? Será usado para seres inanimados, como objetos, coisas. \n Equivale a O que é isso?",
+        "palavras_ocultas": ["Кто это", "Что Это"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - O que é isso? \n - Isso é o livro. \n\n - Что это? \n - Это книга.",
+        "palavras_ocultas": ["Что это", "Это книга"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - O que é isso? \n - Isso é o mar. \n\n - Что это? \n - Это море.",
+        "palavras_ocultas": ["Что это", "Это море"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - Quem é esse? \n - Isso(esse) é meu amigo. \n\n - Кто это? \n - Это мой друг.",
+        "palavras_ocultas": ["Кто это", "Это мой друг"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - Кто это? \n - Это Девочка \n\n - Quem é essa? - Isso é a(uma) menina.",
+        "palavras_ocultas": ["Quem é essa", "menina"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - Что это? \n - Это моя машина. \n\n - O que é isso? \n - Isso é meu carro.",
+        "palavras_ocultas": ["O que é isso", "Isso é meu carro"]
+    },
+    {
+        "frase_completa": "Traduza o diálogo: \n - Что это? \n - Это твой стол. \n\n - O que é isso? \n - Isto(esta) é sua mesa.",
+        "palavras_ocultas": ["O que é isso", "sua mesa"]
+    }
+]
