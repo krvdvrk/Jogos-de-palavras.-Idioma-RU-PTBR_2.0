@@ -1,4 +1,5 @@
-Jogos de palavras. Idioma: RU-PTBR
+Jogos de palavras. Idioma: RU-PTBR.
+
 Programa em Português do Brasil dedicado ao aprendizado do idioma Russo, onde nele contêm dois jogos de palavras e um mini curso. 
 
 Para executar:
