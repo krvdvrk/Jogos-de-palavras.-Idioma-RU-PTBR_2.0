@@ -20,7 +20,11 @@
         "palavras_ocultas": ["Femininos"]
     },
     {
+<<<<<<< HEAD
         "frase_completa": "Subtantivos quando terminados em \n\n О \n Е (ie) \n Ё (io) \n São Neutros \n\n Exemplos: \n окно, стекло, растение, платье, ружьё, море, молоко, утро",
+=======
+        "frase_completa": "Subtantivos quando terminados em \n\n О \n Е (ie) \n Ё (io) \n São Neutros \n Exemplos: \n окно, стекло, растение, платье, ружьё, море, молоко, утро",
+>>>>>>> 45d69b0980a5804c833b5145b7e553ccff112095
         "palavras_ocultas": ["Neutros"]
     },
     {
